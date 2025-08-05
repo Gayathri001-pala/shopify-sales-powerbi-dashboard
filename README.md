@@ -56,7 +56,6 @@ This project showcases a Power BI dashboard analyzing Shopify sales data and cus
 ---
 
 ## 🖼️ Screenshots  
-> *(Add your screenshots to `/images/` folder in the repo and link here)*
 
 **Dashboard Overview**  
 ![](https://github.com/Gayathri001-pala/shopify-sales-powerbi-dashboard/blob/main/shopify_sales-images-0.jpg)
@@ -67,7 +66,7 @@ This project showcases a Power BI dashboard analyzing Shopify sales data and cus
 ---
 
 ## 🚀 How to Use  
-1. Clone this repo or download the `https://github.com/Gayathri001-pala/shopify-sales-powerbi-dashboard/blob/main/shopify_sales.pbit` file  
+1. Clone this repo or download the  [Shopify_Sales_Dashboard.pbix](ttps://github.com/Gayathri001-pala/shopify-sales-powerbi-dashboard/blob/main/shopify_sales.pbits) file  
 2. Open in **Power BI Desktop**  
 3. Refresh data if needed  
 4. Explore the dashboard using slicers and drill-throughs
