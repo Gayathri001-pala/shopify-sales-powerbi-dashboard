@@ -59,10 +59,10 @@ This project showcases a Power BI dashboard analyzing Shopify sales data and cus
 > *(Add your screenshots to `/images/` folder in the repo and link here)*
 
 **Dashboard Overview**  
-![Overview](images/overview.png)
+![]()
 
 **Drill-through View**  
-![Details](images/details.png)
+![]()
 
 ---
 
